@@ -1,0 +1,19 @@
+.odd {
+  font: Verdana,"DejaVu Sans", "sans-serif";
+  background-color: #ffb6c1;
+
+}
+
+#two{
+  color: hsl(240, 100%, 50%);
+  font-size: 36px;
+}
+
+#forth{
+  background-color: hwb(120 56% 7%);
+  font-weight: bold;
+}
+
+.adjust-font-size{
+  font-size: 24px;
+}
